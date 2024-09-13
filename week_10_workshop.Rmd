@@ -1,0 +1,9 @@
+---
+title: "Week 10 workshop"
+author: "Jobert Richie Nansseu"
+date: "2024/09/13"
+---
+
+For the week 10 workshop, we used the data for the China Influenza A H9N7 outbreak that occurred in 2013 to build a dashboard, the link of which is provided [here](https://jobertrichie.github.io/China_flu_2013/).
+
+Thank you!
